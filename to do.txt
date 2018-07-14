@@ -1,0 +1,4 @@
+ask for doctor timings for top header
+add doctor social media links to footer and homepage profile section
+
+change social media links and speciality bullets from profile page
